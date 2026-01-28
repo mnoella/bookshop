@@ -2,11 +2,11 @@
 
 A modern and ergonomic e-commerce platform for books, designed for a seamless reading experience on all devices (mobile, tablet, computer).
 
-## 🎯 About the Project
+## About the Project
 
 Bookshop is a web solution created to modernize a bookstore's offering and expand its customer base. The platform allows readers to discover, search, and purchase books while building an active community around reading.
 
-## ✨ Features
+## Features
 
 - **Book Catalog** : Browse a wide selection organized by genre
 - **Advanced Search** : Filter by genre, price, rating, and author
@@ -16,7 +16,7 @@ Bookshop is a web solution created to modernize a bookstore's offering and expan
 - **Comment System** : Share your opinions on each book
 - **Responsive Design** : Optimized for mobile, tablet, and desktop
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5** - Semantic structure
 - **CSS3** - Custom styles with CSS variables
@@ -24,7 +24,7 @@ Bookshop is a web solution created to modernize a bookstore's offering and expan
 - **Font Awesome 6.7.2** - Icons
 - **JavaScript** - Dynamic interactions
 
-## 🚀 Installation
+## Installation
 
 1. Clone the repository
 ```bash
@@ -39,7 +39,7 @@ python -m http.server 8000
 
 Then visit `http://localhost:8000`
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 bookshop/
@@ -55,27 +55,28 @@ bookshop/
 └── img/
 ```
 
-## 📖 Main Pages
+## Main Pages
 
 - **Home** : Featured books carousel and highlights
 - **Catalog** : All books with advanced filters
 - **Book Detail** : Complete information and customer reviews
 - **Forum** : Community discussions and recommendations
 
-## 🎨 Design
+## Design
 
 - Warm beige/brown color palette
 - Intuitive and ergonomic interface
 - Clear navigation with breadcrumbs
 - Optimized accessibility
 
-## 🎓 Academic Context
+## Academic Context
 
 Project completed as part of a **UX/UI & CSS Framework** exam with the following deliverables:
 - ✅ Complete multi-screen mockups
 - ✅ Responsive and ergonomic website
 - ✅ Optimal use of Bootstrap 5
 
-## 📄 License
+## License
 
 Educational project.
+
